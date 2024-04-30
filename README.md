@@ -35,43 +35,39 @@ If you want to create your own repository landscape similar to this, please foll
 - URL: <a href="https://github.com/Viperz75/unitconvertidor">Viperz75/unitconvertidor</a>
 - Description: Unit Converter App made in flutter
 - <a href="https://github.com/Viperz75/unitconvertidor/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/unitconvertidor"/></a>
-## 9. Musix
-- URL: <a href="https://github.com/Viperz75/Musix">Viperz75/Musix</a>
-- Description: null
-- <a href="https://github.com/Viperz75/Musix/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Musix"/></a>
-## 10. Image-Watermarking-App
+## 9. Image-Watermarking-App
 - URL: <a href="https://github.com/Viperz75/Image-Watermarking-App">Viperz75/Image-Watermarking-App</a>
 - Description: null
 - <a href="https://github.com/Viperz75/Image-Watermarking-App/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Image-Watermarking-App"/></a>
-## 11. To-Do-List
+## 10. To-Do-List
 - URL: <a href="https://github.com/Viperz75/To-Do-List">Viperz75/To-Do-List</a>
 - Description: null
 - <a href="https://github.com/Viperz75/To-Do-List/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/To-Do-List"/></a>
-## 12. BMI-BMR-Calculator
+## 11. BMI-BMR-Calculator
 - URL: <a href="https://github.com/Viperz75/BMI-BMR-Calculator">Viperz75/BMI-BMR-Calculator</a>
 - Description: null
 - <a href="https://github.com/Viperz75/BMI-BMR-Calculator/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/BMI-BMR-Calculator"/></a>
-## 13. Bank-Interest-Calculator
+## 12. Bank-Interest-Calculator
 - URL: <a href="https://github.com/Viperz75/Bank-Interest-Calculator">Viperz75/Bank-Interest-Calculator</a>
 - Description: null
 - <a href="https://github.com/Viperz75/Bank-Interest-Calculator/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Bank-Interest-Calculator"/></a>
-## 14. French-Flashy
+## 13. French-Flashy
 - URL: <a href="https://github.com/Viperz75/French-Flashy">Viperz75/French-Flashy</a>
 - Description: An easy way to learn daily used French words
 - <a href="https://github.com/Viperz75/French-Flashy/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/French-Flashy"/></a>
-## 15. Hangman
+## 14. Hangman
 - URL: <a href="https://github.com/Viperz75/Hangman">Viperz75/Hangman</a>
 - Description: null
 - <a href="https://github.com/Viperz75/Hangman/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Hangman"/></a>
-## 16. Unit-Converter
+## 15. Unit-Converter
 - URL: <a href="https://github.com/Viperz75/Unit-Converter">Viperz75/Unit-Converter</a>
 - Description: Basic Unit Converter which contains length, area, mass, volume, data & time convertion
 - <a href="https://github.com/Viperz75/Unit-Converter/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Unit-Converter"/></a>
-## 17. Bangladesh-District-Game
+## 16. Bangladesh-District-Game
 - URL: <a href="https://github.com/Viperz75/Bangladesh-District-Game">Viperz75/Bangladesh-District-Game</a>
 - Description: A good game to memorize and learn all the district name of Bangladesh in a fun way.
 - <a href="https://github.com/Viperz75/Bangladesh-District-Game/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Bangladesh-District-Game"/></a>
-## 18. Zodiac-Calculator
+## 17. Zodiac-Calculator
 - URL: <a href="https://github.com/Viperz75/Zodiac-Calculator">Viperz75/Zodiac-Calculator</a>
 - Description: null
 - <a href="https://github.com/Viperz75/Zodiac-Calculator/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Zodiac-Calculator"/></a>
