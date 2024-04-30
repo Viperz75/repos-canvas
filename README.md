@@ -3,61 +3,77 @@
 
 If you want to create your own repository landscape similar to this, please follow this [**guide**](./create-repo-landscape.md) 📖
 
-## 1. devops-basics
-- URL: <a href="https://github.com/tungbq/devops-basics">tungbq/devops-basics</a>
-- Description: 🚀 Practical and document place for DevOps toolchain
-- <a href="https://github.com/tungbq/devops-basics/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/devops-basics"/></a>
-## 2. AWSHub
-- URL: <a href="https://github.com/tungbq/AWSHub">tungbq/AWSHub</a>
-- Description: 📚 Collection of AWS Services documentation and learning resources ☁️
-- <a href="https://github.com/tungbq/AWSHub/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/AWSHub"/></a>
-## 3. devops-toolkit
-- URL: <a href="https://github.com/tungbq/devops-toolkit">tungbq/devops-toolkit</a>
-- Description: 🐳 Container image for an all-in-one DevOps environment with popular tools like Ansible, Terraform, kubectl, Helm, AWS CLI, Azure CLI, Git, Python and more.
-- <a href="https://github.com/tungbq/devops-toolkit/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/devops-toolkit"/></a>
-## 4. devops-project
-- URL: <a href="https://github.com/tungbq/devops-project">tungbq/devops-project</a>
-- Description: Collection of DevOps projects to level up your DevOps skills
-- <a href="https://github.com/tungbq/devops-project/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/devops-project"/></a>
-## 5. aws-lab-with-terraform
-- URL: <a href="https://github.com/tungbq/aws-lab-with-terraform">tungbq/aws-lab-with-terraform</a>
-- Description: Collection of Terraform code for AWS labs
-- <a href="https://github.com/tungbq/aws-lab-with-terraform/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/aws-lab-with-terraform"/></a>
-## 6. awesome-workflow
-- URL: <a href="https://github.com/tungbq/awesome-workflow">tungbq/awesome-workflow</a>
-- Description: :octocat: Awesome lists about GitHub workflows to automate your development workflow
-- <a href="https://github.com/tungbq/awesome-workflow/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/awesome-workflow"/></a>
-## 7. k8sHub
-- URL: <a href="https://github.com/tungbq/k8sHub">tungbq/k8sHub</a>
-- Description: Kubernetes deployment samples, practices, and examples
-- <a href="https://github.com/tungbq/k8sHub/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/k8sHub"/></a>
-## 8. Azure-DevOps-Pipeline
-- URL: <a href="https://github.com/tungbq/Azure-DevOps-Pipeline">tungbq/Azure-DevOps-Pipeline</a>
-- Description: Azure-DevOps tutorials
-- <a href="https://github.com/tungbq/Azure-DevOps-Pipeline/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/Azure-DevOps-Pipeline"/></a>
-## 9. find-github-issue
-- URL: <a href="https://github.com/tungbq/find-github-issue">tungbq/find-github-issue</a>
-- Description: Collection of GitHub filters for open-source contributors
-- <a href="https://github.com/tungbq/find-github-issue/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/find-github-issue"/></a>
-## 10. challenges
-- URL: <a href="https://github.com/tungbq/challenges">tungbq/challenges</a>
-- Description: Leetcode challenges
-- <a href="https://github.com/tungbq/challenges/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/challenges"/></a>
-## 11. devops-dockerfiles
-- URL: <a href="https://github.com/tungbq/devops-dockerfiles">tungbq/devops-dockerfiles</a>
-- Description: Dockerfiles collection for DevOps tools
-- <a href="https://github.com/tungbq/devops-dockerfiles/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/devops-dockerfiles"/></a>
-## 12. terraform-sample-project
-- URL: <a href="https://github.com/tungbq/terraform-sample-project">tungbq/terraform-sample-project</a>
-- Description: Sample Terraform project with best practice
-- <a href="https://github.com/tungbq/terraform-sample-project/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/terraform-sample-project"/></a>
-## 13. repos
-- URL: <a href="https://github.com/tungbq/repos">tungbq/repos</a>
-- Description: 🚀 My repositories landscape
-- <a href="https://github.com/tungbq/repos/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/repos"/></a>
-## 14. python-examples
-- URL: <a href="https://github.com/tungbq/python-examples">tungbq/python-examples</a>
-- Description: Set of Python examples, practice exercises, and learning resources
-- <a href="https://github.com/tungbq/python-examples/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/python-examples"/></a>
+## 1. Jar
+- URL: <a href="https://github.com/Viperz75/Jar">Viperz75/Jar</a>
+- Description: Saving Jar. Keep track of your savings. Keep them in a JAR.
+- <a href="https://github.com/Viperz75/Jar/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Jar"/></a>
+## 2. QR-Scan
+- URL: <a href="https://github.com/Viperz75/QR-Scan">Viperz75/QR-Scan</a>
+- Description: null
+- <a href="https://github.com/Viperz75/QR-Scan/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/QR-Scan"/></a>
+## 3. Shoncoy
+- URL: <a href="https://github.com/Viperz75/Shoncoy">Viperz75/Shoncoy</a>
+- Description: Income and Expense Tracker
+- <a href="https://github.com/Viperz75/Shoncoy/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Shoncoy"/></a>
+## 4. CineVerse
+- URL: <a href="https://github.com/Viperz75/CineVerse">Viperz75/CineVerse</a>
+- Description: Use it as a diary to record and share your opinion about films as you watch them, or just to keep track of films you've seen in the past.
+- <a href="https://github.com/Viperz75/CineVerse/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/CineVerse"/></a>
+## 5. pomodoro_timer
+- URL: <a href="https://github.com/Viperz75/pomodoro_timer">Viperz75/pomodoro_timer</a>
+- Description: Pomodoro is a customizable pomodoro timer that works on desktop & mobile browser.
+- <a href="https://github.com/Viperz75/pomodoro_timer/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/pomodoro_timer"/></a>
+## 6. X-Post-Coverter
+- URL: <a href="https://github.com/Viperz75/X-Post-Coverter">Viperz75/X-Post-Coverter</a>
+- Description: Convert your text to X post screenshots!
+- <a href="https://github.com/Viperz75/X-Post-Coverter/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/X-Post-Coverter"/></a>
+## 7. scanestein
+- URL: <a href="https://github.com/Viperz75/scanestein">Viperz75/scanestein</a>
+- Description: Android app to scan, create barcode and QR Code. It can also extract any text from image.
+- <a href="https://github.com/Viperz75/scanestein/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/scanestein"/></a>
+## 8. unitconvertidor
+- URL: <a href="https://github.com/Viperz75/unitconvertidor">Viperz75/unitconvertidor</a>
+- Description: Unit Converter App made in flutter
+- <a href="https://github.com/Viperz75/unitconvertidor/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/unitconvertidor"/></a>
+## 9. Musix
+- URL: <a href="https://github.com/Viperz75/Musix">Viperz75/Musix</a>
+- Description: null
+- <a href="https://github.com/Viperz75/Musix/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Musix"/></a>
+## 10. Image-Watermarking-App
+- URL: <a href="https://github.com/Viperz75/Image-Watermarking-App">Viperz75/Image-Watermarking-App</a>
+- Description: null
+- <a href="https://github.com/Viperz75/Image-Watermarking-App/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Image-Watermarking-App"/></a>
+## 11. To-Do-List
+- URL: <a href="https://github.com/Viperz75/To-Do-List">Viperz75/To-Do-List</a>
+- Description: null
+- <a href="https://github.com/Viperz75/To-Do-List/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/To-Do-List"/></a>
+## 12. BMI-BMR-Calculator
+- URL: <a href="https://github.com/Viperz75/BMI-BMR-Calculator">Viperz75/BMI-BMR-Calculator</a>
+- Description: null
+- <a href="https://github.com/Viperz75/BMI-BMR-Calculator/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/BMI-BMR-Calculator"/></a>
+## 13. Bank-Interest-Calculator
+- URL: <a href="https://github.com/Viperz75/Bank-Interest-Calculator">Viperz75/Bank-Interest-Calculator</a>
+- Description: null
+- <a href="https://github.com/Viperz75/Bank-Interest-Calculator/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Bank-Interest-Calculator"/></a>
+## 14. French-Flashy
+- URL: <a href="https://github.com/Viperz75/French-Flashy">Viperz75/French-Flashy</a>
+- Description: An easy way to learn daily used French words
+- <a href="https://github.com/Viperz75/French-Flashy/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/French-Flashy"/></a>
+## 15. Hangman
+- URL: <a href="https://github.com/Viperz75/Hangman">Viperz75/Hangman</a>
+- Description: null
+- <a href="https://github.com/Viperz75/Hangman/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Hangman"/></a>
+## 16. Unit-Converter
+- URL: <a href="https://github.com/Viperz75/Unit-Converter">Viperz75/Unit-Converter</a>
+- Description: Basic Unit Converter which contains length, area, mass, volume, data & time convertion
+- <a href="https://github.com/Viperz75/Unit-Converter/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Unit-Converter"/></a>
+## 17. Bangladesh-District-Game
+- URL: <a href="https://github.com/Viperz75/Bangladesh-District-Game">Viperz75/Bangladesh-District-Game</a>
+- Description: A good game to memorize and learn all the district name of Bangladesh in a fun way.
+- <a href="https://github.com/Viperz75/Bangladesh-District-Game/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Bangladesh-District-Game"/></a>
+## 18. Zodiac-Calculator
+- URL: <a href="https://github.com/Viperz75/Zodiac-Calculator">Viperz75/Zodiac-Calculator</a>
+- Description: null
+- <a href="https://github.com/Viperz75/Zodiac-Calculator/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Zodiac-Calculator"/></a>
 
 For full list of repositories, click [**here**](https://github.com/tungbq?tab=repositories&q=&type=&language=&sort=stargazers).
