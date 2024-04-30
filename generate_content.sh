@@ -30,7 +30,7 @@ generate_repo_list() {
 echo "<h1 align=\"center\">Repositories Landscape 💎</h1>" >README.md
 echo "<p align=\"center\">Welcome to my repositories landscape 👋</p>" >>README.md
 echo "" >>README.md
-echo "If you want to create your own repository landscape similar to this, please follow this [**guide**](./create-repo-landscape.md) 📖" >>README.md
+
 ## Seperator to create following list
 echo "" >>README.md
 
@@ -56,4 +56,4 @@ while IFS= read -r repo_name; do
 done <"$REPOSITORY_LIST"
 
 echo "" >>README.md
-echo "For full list of repositories, click [**here**](https://github.com/tungbq?tab=repositories&q=&type=&language=&sort=stargazers)." >>README.md
+echo "For full list of repositories, click [**here**](https://github.com/Viperz75?tab=repositories&q=&type=&language=&sort=stargazers)." >>README.md
