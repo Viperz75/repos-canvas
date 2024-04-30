@@ -1,7 +1,6 @@
 <h1 align="center">Repositories Landscape 💎</h1>
 <p align="center">Welcome to my repositories landscape 👋</p>
 
-If you want to create your own repository landscape similar to this, please follow this [**guide**](./create-repo-landscape.md) 📖
 
 ## 1. Jar
 - URL: <a href="https://github.com/Viperz75/Jar">Viperz75/Jar</a>
@@ -72,4 +71,4 @@ If you want to create your own repository landscape similar to this, please foll
 - Description: null
 - <a href="https://github.com/Viperz75/Zodiac-Calculator/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Viperz75/Zodiac-Calculator"/></a>
 
-For full list of repositories, click [**here**](https://github.com/tungbq?tab=repositories&q=&type=&language=&sort=stargazers).
+For full list of repositories, click [**here**](https://github.com/Viperz75?tab=repositories&q=&type=&language=&sort=stargazers).
