@@ -6,7 +6,6 @@ Viperz75/pomodoro_timer
 Viperz75/X-Post-Coverter
 Viperz75/scanestein
 Viperz75/unitconvertidor
-Viperz75/Musix
 Viperz75/Image-Watermarking-App
 Viperz75/To-Do-List
 Viperz75/BMI-BMR-Calculator
